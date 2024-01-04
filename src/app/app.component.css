@@ -1,0 +1,9 @@
+.body{
+    margin-top: 50px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*min-height: 100vh; /* Use min-height para garantir que a centralização funcione mesmo com pouco conteúdo */
+   
+}

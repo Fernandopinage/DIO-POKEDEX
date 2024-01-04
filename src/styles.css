@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+:root {
+    
+    --bug: rgb(154, 167, 40);
+    --grass:  rgb(87, 167, 40);
+    --poison: rgb(127, 45, 174);
+    --normal: rgb(168, 168, 120);
+    --flying: rgb(168, 144, 240);
+    --water: rgb(87, 131, 242);
+    --fire: rgb(255, 68, 34);
+  }

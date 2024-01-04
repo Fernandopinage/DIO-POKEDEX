@@ -1,0 +1,24 @@
+
+.card-body{
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-container{
+    border-radius: 20px;
+    width: 100%;
+    max-width: 100%;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    display: inline-block;
+    margin-right: 20px; 
+    margin: 10px 10px;
+    justify-content: center;
+}
+  
